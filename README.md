@@ -15,8 +15,8 @@ Anavi Robot is an open source hardware Raspberry Pi HAT (add-on board) for rapid
 Anavi Robot Raspberry Pi HAT hardware project is released under the Creative Commons Attribution-Share Alike 3.0 United States License.
 
 You may reproduce it for both your own personal use, and for commertial use. 
-You will have to provide a link to the original creator of the project http://www.rabbitmax.com on any documentation or website.
+You will have to provide a link to the original creator of the project http://www.anavi.technology on any documentation or website.
 
 You may also modify the files, but you must then release them as well under the same terms.
 
-Credit can be attributed through a link to the creator website: http://www.rabbitmax.com
+Credit can be attributed through a link to the creator website: http://www.anavi.technology
